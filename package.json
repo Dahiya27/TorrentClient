@@ -1,0 +1,14 @@
+{
+  "name": "TorrentClient",
+  "version": "1.0.0",
+  "description": "Torrent Client Project made by us :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Upender, Piyanshu",
+  "license": "ISC",
+  "dependencies": {
+    "bencode": "^2.0.1"
+  }
+}
