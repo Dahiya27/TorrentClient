@@ -14,9 +14,9 @@ module.exports.parse = msg => {
   }
 
   return {
-    size : msg.readInt32BE(0),
-    id : id,
-    payload : payload
+    size: msg.readInt32BE(0),
+    id: id,
+    payload: payload
   }
 };
 
